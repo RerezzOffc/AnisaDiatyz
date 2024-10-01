@@ -9,4 +9,4 @@
   <li>SC INSTALL PANEL + TOKEN + SC TOKEN RP 35.000</li>
   <li>PASANG TOKEN RP 5K</li>
 </ul>
-<a href='https://t.mr/rerez_x_hosting'<button>PESAN SEKARANG</button></a>
+<a href='https://t.me/rerez_x_hosting'><button>PESAN SEKARANG</button></a>
